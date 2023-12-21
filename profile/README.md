@@ -1,3 +1,3 @@
-# .github
+# ImmersiveMediaLaboratory
 
 HELLO
